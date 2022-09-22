@@ -10,4 +10,5 @@ spring:
 ---
 spring:
   profiles: test
-  application: spring-cloud-config-test
+  application:
+    name: spring-cloud-config-test
